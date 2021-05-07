@@ -7,7 +7,6 @@
   - and a lot more ...
 - 🌱 I’m currently learning some other languages (because python is a little limited)
 - 📫 How to reach me: 
-  - discord : itai#0783
   - mail : [itai.i@free.fr](mailto:itai.i@free.fr)
 
 **Some stats :**
